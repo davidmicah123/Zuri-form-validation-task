@@ -126,7 +126,7 @@ input{
 /* main answer */
 @media (max-width: 375px) {
     main{
-        background-image: url(images/bg-intro-mobile.png);
+        background-image: url(bg-intro-mobile.png);
         height: 100%;
         padding-bottom: 10vh;
     }
